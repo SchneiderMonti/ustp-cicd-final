@@ -76,5 +76,3 @@ CI/CD Practical Exam – USTP
 * ✔ Releases automated
 * ✔ Dependabot active
 * ✔ CODEOWNERS configured
-
-JOASNDVIJ
