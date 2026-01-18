@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites name="vitest tests" tests="1" failures="0" errors="0" time="0.0024443">
+    <testsuite name="tests/smoke.test.js" timestamp="2026-01-18T13:06:18.356Z" hostname="Timon" tests="1" failures="0" errors="0" skipped="0" time="0.0024443">
+        <testcase classname="tests/smoke.test.js" name="smoke &gt; basic sanity check" time="0.0013007">
+        </testcase>
+    </testsuite>
+</testsuites>
